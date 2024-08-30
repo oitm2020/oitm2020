@@ -4,3 +4,4 @@
 - [IV. Országos IT Megmérettetés 2020](https://github.com/oitm2020/oitm2020/)
 - [V. Országos IT Megmérettetés 2021](https://github.com/oitm2020/oitm2021/)
 - [VI Országos IT Megmérettetés 2022](https://github.com/oitm2020/oitm2022/)
+- [VII Országos IT Megmérettetés 2023](https://github.com/oitm2020/oitm2023/)
